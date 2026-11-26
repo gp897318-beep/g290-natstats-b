@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DataNusa — Statistik Indonesia</title>
+<meta name="description" content="DataNusa: penjelajah statistik Indonesia — penduduk, PDB, inflasi, pengangguran, kemiskinan, dan IPM, dengan angka asli BPS beserta sumber dan tahunnya.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">
+    <span class="brand-mark" aria-hidden="true">DN</span>
+    <span class="brand-text"><strong>DataNusa</strong><small>Statistik Indonesia · BPS</small></span>
+  </a>
+  <button id="menu-btn" type="button" aria-expanded="false" aria-controls="main-nav">☰ Menu</button>
+  <nav class="nav" id="main-nav" aria-label="Navigasi utama">
+    <a href="#/">Dasbor</a>
+    <a href="#/indikator">Indikator</a>
+    <a href="#/banding">Banding Provinsi</a>
+    <a href="#/provinsi">Provinsi</a>
+    <a href="#/sumber">Sumber Data</a>
+    <a href="#/tentang">Tentang</a>
+  </nav>
+</header>
+<main id="view" class="view"></main>
+<footer class="footer">
+  <p><strong>DataNusa</strong> — penjelajah statistik Indonesia. Seluruh angka berasal dari Badan Pusat Statistik (BPS); setiap halaman mencantumkan sumber dan tahun datanya.</p>
+  <p>Data tahun acuan 2024 · Dibuat mandiri, tanpa pustaka luar dan tanpa permintaan jaringan.</p>
+</footer>
+<script src="data.js"></script>
+<script src="charts.js"></script>
+<script src="views.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
