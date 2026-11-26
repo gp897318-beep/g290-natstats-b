@@ -1,5 +1,8 @@
 # DataNusa — Statistik Indonesia
 
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/gp897318-beep/g290-natstats-b/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/gp897318-beep/g290-natstats-b/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 [![Situs](https://img.shields.io/badge/situs-statis%20offline-brightgreen)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
 [![Data](https://img.shields.io/badge/data-BPS%202024-blue)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
 [![Lisensi](https://img.shields.io/badge/lisensi-MIT-orange)](LICENSE)
